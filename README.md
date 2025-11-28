@@ -1,2 +1,2 @@
-# trabalho-de-ter-a
+# trabalho-de-terça
 ConClass
